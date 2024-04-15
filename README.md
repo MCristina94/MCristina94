@@ -1,4 +1,4 @@
-<img align="right" src="../MCristina94/img/imagen-responsive.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="./img/imagen-responsive.svg" alt="Illustration" title="Illustration Storyset" width=450/>
 
 <h1 align="left">Hi 👋🏽, I'm Maureen</h1>
 
