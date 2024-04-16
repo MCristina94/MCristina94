@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋🏽, I'm Maureen</h1>
 
 
-[Profile views](https://portafolio-maureen.vercel.app/)
+🌍[Portfolio](https://portafolio-maureen.vercel.app/)
 
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
